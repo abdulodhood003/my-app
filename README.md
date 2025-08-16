@@ -12,6 +12,14 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=abdulodhood003&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulodhood003&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+## 📌 Projects  
+
+### 🌦️ Weather App (React.js)  
+A modern weather forecasting app built with **React.js**, fetching real-time data from a weather API.  
+- 🔗 [Live Demo](https://abdulodhood003.github.io/my-app/)  
+- 💻 [Source Code](https://github.com/abdulodhood003/my-app)  
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abdulodhood003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
